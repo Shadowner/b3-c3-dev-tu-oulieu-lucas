@@ -6,7 +6,6 @@ module.exports = {
         'vue'
     ],
     transform: {
-        '^.+\\.ts$': 'ts-jest',
-        '^.+\\.vue$': 'vue-jest'
+        '^.+\\.ts$': 'ts-jest'
     }
 }
